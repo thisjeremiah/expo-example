@@ -1,0 +1,26 @@
+{
+  "font-sf-pro": {
+    "fontFamily": "sf-pro-display-medium"
+  },
+  "font-light": {
+    "fontFamily": "guardian-sans-light"
+  },
+  "font-medium": {
+    "fontFamily": "guardian-sans-medium"
+  },
+  "font-regular": {
+    "fontFamily": "guardian-sans-regular"
+  },
+  "font-semibold": {
+    "fontFamily": "guardian-sans-semibold"
+  },
+  "font-thin": {
+    "fontFamily": "guardian-sans-thin"
+  },
+  "font-bold": {
+    "fontFamily": "guardian-sans-bold"
+  },
+  "resize-contain": {
+    "resizeMode": "contain"
+  }
+}
